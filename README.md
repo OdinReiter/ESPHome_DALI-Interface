@@ -1,7 +1,9 @@
 # ESPHome_DALI-Interface
 A Module that allowes an ESP to send Data to DALI LED-Drivers over an simple DIY Interface.
 
+## Information about DALI
 
+see: https://de.wikipedia.org/wiki/Digital_Addressable_Lighting_Interface
 
 ## Hardware interface
 
