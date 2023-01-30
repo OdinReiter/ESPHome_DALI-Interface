@@ -7,8 +7,16 @@ see: https://de.wikipedia.org/wiki/Digital_Addressable_Lighting_Interface
 
 ## Hardware interface
 
-To-Do: insert picture and shematics 
+used components:
+
+- U1: pc817 (Optocoupler)
+- T1: BD 137 (Transistor)
+- B1: B140C1500 (Rectifier)
+
+
 ![a Image](schematic.PNG)
+
+(its not the best one, because it wont complied with the DALI standard!)
 
 ## usage in ESPhome:
 
