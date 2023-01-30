@@ -8,7 +8,7 @@ see: https://de.wikipedia.org/wiki/Digital_Addressable_Lighting_Interface
 ## Hardware interface
 
 To-Do: insert picture and shematics 
-
+![a Image](schematic.png)
 
 ## usage in ESPhome:
 
