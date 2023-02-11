@@ -65,7 +65,7 @@ dali:
 
 - sending Faderate and Fadetime
 - interface for getting current brightness value etc
-- reading values from the bus
+- reading values from the bus (with hardware update)
 
 ## Others
 
